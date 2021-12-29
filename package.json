@@ -1,0 +1,45 @@
+{
+  "name": "decentralized-internet",
+  "version": "3.2.0",
+  "description": "An NPM library of programs to create decentralized web and distributed computing projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bitcoin-protocol": "^4.0.1",
+    "bitcoin-util": "^2.0.0",
+    "lotion": "^0.4.26",
+    "coins": "^4.5.0",
+    "websocket-stream": "^3.3.0"
+  },
+  "keywords": [
+    "Blockchain",
+    "Internet",
+    "Web",
+    "Protocols",
+    "Cryptocurrency",
+    "Distributed",
+    "Decentralized",
+    "P2P",
+    "Peer",
+    "IOT",
+    "Mining",
+    "Crypto",
+    "Mining"
+  ],
+  "author": "Andrew Magdy Kamal, The Lonero Dev Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lonero-Team/Decentralized-Internet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lonero-Team/Decentralized-Internet/issues"
+  },
+  "homepage": "https://github.com/Lonero-Team/Decentralized-Internet#readme"
+}
